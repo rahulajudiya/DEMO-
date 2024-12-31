@@ -34,5 +34,5 @@ let arr = ["prem","raj","hinali","rahul","parthiv","prince","manshavi","meet"]
 // console.log(arrAt)
 
 // let arrPop = arr.pop()
-// ^=> ""
+// ^=> "chhelo object remove thayjay chhe"
 // console.log(arrPop)
